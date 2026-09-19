@@ -23,3 +23,8 @@ out/
 !.env.example
 __pycache__/
 *.py[cod]
+
+# Local API data
+data/db.json
+data/*.tmp-*
+data/*.corrupt-*
